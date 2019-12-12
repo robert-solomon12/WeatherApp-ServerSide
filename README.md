@@ -3,7 +3,7 @@
 
   - To develop a web API for Assignment 1.
   - Technologies: Node, Express, MongoDB, Mongoose, Testing tools (Mocha, Chai etc.).
-  - Integrate the API with your React app.
+  - Integrate the API with the React app.
   - Can extend API beyond scope of client app:
 
 
