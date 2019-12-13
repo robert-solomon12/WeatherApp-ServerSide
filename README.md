@@ -1,5 +1,8 @@
-# Server-Side Development for front-end React Weather-App
-#The Objective of this part of the project was to achieve the following:
+# Server-Side Development for Front-end React Weather-App
+
+<img src="IMG/serverclient.png">
+
+# The Objective of this part of the project was to achieve the following:
 
   - To develop a web API for Assignment 1.
   - Technologies: Node, Express, MongoDB, Mongoose, Testing tools (Mocha, Chai etc.).
