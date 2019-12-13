@@ -19,3 +19,23 @@
        
         <b> sudo npm start </b>
           
+
+
+[Client-Side React Appliciation](https://github.com/robertsolomon97/WebApp-ClientSide)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br> Should you have any problems, don't hesitate to contact me on my email at:</br> [20079462@mail.wit.ie](mailto:20079462@mail.wit.ie)
+<br>or if you find a bug </br>[open up an issue here](https://github.com/robertsolomon97/WebApp-ServerSide/issues)
