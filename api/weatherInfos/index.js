@@ -26,7 +26,19 @@ router.get('/', async (req, res) => {
 
 // Create a WeatherInfo, using async handler
 router.post('/', asyncHandler(async (req, res) => {
-  const weatherInfo = await Weather.create(req.body);
+  // const weatherInfo = await Weather.create(req.body);
+  const datas = req.body.data;
+  const weather = new Weather({
+    cityname: datas.cityName,
+    countryname: datas.countryName,
+    temperature: datas.temperature,
+    description: datas.description,
+    humidity: datas.humidity,
+    wind_speed: datas.wind_speed,
+    wind_degree: datas.windDegree
+  });
+
+  await weather.save();
   res.status(201).json(weather);
 }));
 
