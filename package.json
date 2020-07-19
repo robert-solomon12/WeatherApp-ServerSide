@@ -23,7 +23,7 @@
     "express": "^4.16.4",
     "express-async-handler": "^1.1.4",
     "express-session": "^1.15.6",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "mongoose": "^5.4.19"
   }
 }
